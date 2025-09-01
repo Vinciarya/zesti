@@ -50,7 +50,7 @@
           "type": "Link",
           "config": {
             "label": "Button Link",
-            "placeholder": "",
+            "placeholder": "https://github.com/Vinciarya",
             "select": null,
             "allowTargetBlank": true,
             "allowText": true,

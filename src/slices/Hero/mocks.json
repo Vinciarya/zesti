@@ -42,12 +42,12 @@
 				"type": "Text"
 			},
 			"button_link": {
-				"key": "3cad8355-32a3-4432-8130-fc558f04eecb",
 				"__TYPE__": "LinkContent",
+				"key": "a9795ef4-a48f-46fa-8f7e-c6000f701d9b",
 				"value": {
 					"__TYPE__": "ExternalLink",
-					"url": "http://google.com",
-					"text": "dear"
+					"url": "https://prismic.io",
+					"text": "read"
 				}
 			},
 			"can_images": {

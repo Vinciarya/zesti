@@ -191,7 +191,7 @@ export interface HeroSliceDefaultPrimary {
    * Button Link field in *Hero → Default → Primary*
    *
    * - **Field Type**: Link
-   * - **Placeholder**: *None*
+   * - **Placeholder**: https://github.com/Vinciarya
    * - **API ID Path**: hero.default.primary.button_link
    * - **Documentation**: https://prismic.io/docs/fields/link
    */
