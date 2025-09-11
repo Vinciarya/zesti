@@ -2,7 +2,7 @@ import React from 'react'
 import { ZestiLogo } from './ZestiLogo'
 import CircleText from './CircleText'
 
-type Props = {}
+type Props = Record<string, never>;
 
 export default function Footer({}: Props) {
   return (

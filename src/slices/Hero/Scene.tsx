@@ -8,7 +8,7 @@ import { useGSAP } from "@gsap/react";
 import { useStore } from "@/hooks/useStore";
 gsap.registerPlugin(useGSAP);
 
-type Props = {};
+type Props = Record<string, never>;
 
 export default function Scene({}: Props) {
   const isReady = useStore((state) => state.isReady);

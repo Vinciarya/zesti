@@ -1,7 +1,7 @@
 import React from 'react'
 import { ZestiLogo } from '@/components/ZestiLogo'
 
-type Props = {}
+type Props = Record<string, never>;
 
 export default function Header({}: Props) {
   return (
